@@ -1,4 +1,5 @@
-### Hi there 👋
+### 열빼시 개발자 송채우입니다!!! 
+### 열빼시란 열정! 빼면! 시체!
 
 <!--
 **IBORY-PURPLE/IBORY-PURPLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
