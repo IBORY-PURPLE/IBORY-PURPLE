@@ -5,6 +5,8 @@
 🏀Hobby : basketball.  
 😀Interest : coding and development.  
 
+100일의 법칙 100동안 1일 1commit 챌린지 스스로의 결심 가자
+
 <!--
 **IBORY-PURPLE/IBORY-PURPLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
