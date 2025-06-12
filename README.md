@@ -1,11 +1,9 @@
 ### 열빼시 개발자 송채우입니다!!! 
 ### 열빼시란 열정! 빼면! 시체!
 
-🎓Education : G.U. 22nd.  
-🏀Hobby : basketball.  
-😀Interest : coding and development.  
-
-100일의 법칙 100동안 1일 1commit 챌린지 스스로의 결심 가자
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{IBORY-PURPLE}?pet-id=1" width="1000" height="120"/>
+</a>
 
 <!--
 **IBORY-PURPLE/IBORY-PURPLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
