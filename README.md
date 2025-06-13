@@ -1,6 +1,9 @@
 ### 열빼시 개발자 송채우입니다!!! 
 ### 열빼시란 열정! 빼면! 시체!
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{IBORY-PURPLE}?pet-id=1" width="1000" height="120"/>
+</a>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{IBORY-PURPLE}"/>
