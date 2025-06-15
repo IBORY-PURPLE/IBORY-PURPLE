@@ -2,9 +2,8 @@
 ### 열빼시란 열정! 빼면! 시체!
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{IBORY-PURPLE}?pet-id=721004962946715311" width="1500" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{IBORY-PURPLE}?pet-id=721004962946715311" width="1000" height="120"/>
 </a>
-<div style="height:150px;"></div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
