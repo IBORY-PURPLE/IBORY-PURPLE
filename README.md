@@ -4,6 +4,9 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{IBORY-PURPLE}?pet-id=721004962946715311" width="1000" height="120"/>
 </a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+
 
 <!--
 **IBORY-PURPLE/IBORY-PURPLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
