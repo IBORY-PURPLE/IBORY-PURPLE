@@ -9,6 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IBORY-PURPLE&layout=compact)](https://github.com/shinplest)
 <a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=IBORY-PURPLE&layout=compact"></a>
 <a href = "https://github-readme-stats.vercel.app/api?username=IBORY-PURPLE&show_icons=true&hide_border=true"></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IBORY-PURPLE)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IBORY-PURPLE/IBORY-PURPLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
