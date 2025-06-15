@@ -5,6 +5,9 @@
   <img src="https://render.gitanimals.org/lines/{IBORY-PURPLE}?pet-id=721004962946715311" width="1500" height="120"/>
 </a>
 <div style="height:150px;"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IBORY-PURPLE)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IBORY-PURPLE&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
