@@ -5,9 +5,6 @@
   <img src="https://render.gitanimals.org/lines/{IBORY-PURPLE}?pet-id=721004962946715311" width="1000" height="120"/>
 </a>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=IBORY-PURPLE&show_icons=true&hide_border=true)](https://github.com/shinplest)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IBORY-PURPLE&layout=compact)](https://github.com/shinplest)
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=IBORY-PURPLE&layout=compact"></a>
 <a href = "https://github-readme-stats.vercel.app/api?username=IBORY-PURPLE&show_icons=true&hide_border=true"></a>
 <!--
@@ -24,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
