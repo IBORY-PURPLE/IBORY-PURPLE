@@ -1,5 +1,6 @@
-### 열빼시 개발자 송채우입니다!!! 
-### 열빼시란 열정! 빼면! 시체!
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=ChaeWoo%20Song&fontSize=50&animation=fadeIn&reversal=false)
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{IBORY-PURPLE}?pet-id=727099468196652628" width="1000" height="120"/>
