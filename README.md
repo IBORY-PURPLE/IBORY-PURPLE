@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=ChaeWoo%20Song&fontSize=50&animation=fadeIn&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=ChaeWoo%20Song&fontSize=50&animation=fadeIn&reversal=false&desc=I'm%20nothing%20without%20passion.&textBg=false&descSize=20&descAlign=27&descAlignY=32)
 
 
 <a href="https://github.com/devxb/gitanimals">
