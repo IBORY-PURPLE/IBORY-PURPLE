@@ -2,16 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=ChaeWoo%20Song&fontSize=50&animation=fadeIn&reversal=false&desc=I'm%20nothing%20without%20passion.&textBg=false&descSize=20&descAlign=27&descAlignY=32)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=IBORY-PURPLE&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/IBORY-PURPLE"
-  width="600"
-  height="300"
-/>
+
 </a>
 <p>&nbsp;</p>
-<!-- <a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{IBORY-PURPLE}?pet-id=727099468196652628" width="1000" height="120"/>
-</a> -->
+</a>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
