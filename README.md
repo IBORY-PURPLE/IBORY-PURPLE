@@ -6,11 +6,15 @@
 
 <p>&nbsp;</p>
 
-## 🚀 Welcome to My Space!
+# 🧑‍💻 Passionate Software Engineer
 
-<a href="https://portfolio-eight-pied-37.vercel.app/#/" target="_blank">
-  <img src="https://img.shields.io/badge/✨_View_My_Portfolio_🚀-⚡_Click_Here_!-✨?style=for-the-badge&color=🔥&labelColor=20232A&logo=vercel&logoColor=61DAFB" width="400"/>
-</a>
+> **"I'm nothing without passion."** > 끊임없이 성장하고 문제를 해결하는 것을 즐깁니다. 저에 대한 더 자세한 프로젝트 경험과 기술적 고민들은 아래 포트폴리오 웹사이트에서 확인하실 수 있습니다.
+
+### 🔗 Quick Links
+* 📂 **Portfolio Website** : 
+  <a href="https://portfolio-eight-pied-37.vercel.app/#/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio_--%3E-blue?style=flat-square&logo=vercel&logoColor=white&color=61DAFB" valign="middle"/>
+  </a>
 
 <p>&nbsp;</p>
 
